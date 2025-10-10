@@ -1,25 +1,21 @@
-Seattle Summer
+CWI Autumn
 
-Papers, lectures, Case Studies, and code for the Seattle Summer School minicourses on Scientific Machine Learning
+Papers, lectures, Case Study, and code for the CWI minicourse on Scientific Machine Learning
 
-Chris Budd OBE, University of Bath, UK
+Chris Budd OBE and Aengus Roberts, University of Bath, UK
 
-Lecture 1: Introduction to Sci ML
+Lecture 1a: Approximation using NNs
 
-Lecture 2: Approximation of functions using ML
+Lecture 1b: Intro to PINNs
 
-Lecture 3: PINNS
+Lecture 2a: PINNS in more detail
 
-Lecture 4: Variational deep learning
+Lecture 2b: Variational deep learning
 
-Lecture 5: Operator methods for differential equations
+Lecture 3a: Neural Operator methods for differential equations
 
-Lecture 6: Neural operators
+Lecture 3b: ML methods for weather forecasting
 
-Lecture 7: Neural ODES and reconstruction of dynamics using ML
+Case Study: PINNsfor BVPs and IVPs
 
-Lecture 8: ML methods for weather forecasting
 
-Case Study One: PINNsfor BVPs and IVPs
-
-Case Study Two: FNOs for the Darcy problem
