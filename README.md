@@ -1,10 +1,14 @@
-CWI Autumn School
+# CWI Autumn School
+
+----
 
 Papers, lectures, Case Study, and code for the CWI minicourse on Scientific Machine Learning
 
+---
+
 Chris Budd OBE and Aengus Roberts, University of Bath, UK
 
-
+----
 
 Lecture 1a: Approximation using NNs
 
