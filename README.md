@@ -1,8 +1,10 @@
-CWI Autumn
+CWI Autumn School
 
 Papers, lectures, Case Study, and code for the CWI minicourse on Scientific Machine Learning
 
 Chris Budd OBE and Aengus Roberts, University of Bath, UK
+
+
 
 Lecture 1a: Approximation using NNs
 
@@ -16,6 +18,7 @@ Lecture 3a: Neural Operator methods for differential equations
 
 Lecture 3b: ML methods for weather forecasting
 
-Case Study: PINNsfor BVPs and IVPs
+
+Case Study: PINNs for BVPs and IVPs
 
 
