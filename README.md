@@ -20,7 +20,7 @@ Lecture 2b: Variational deep learning
 
 Lecture 3a: Neural Operator methods for differential equations
 
-Lecture 3b: ML methods for weather forecasting
+Lecture 3b: Scientific ML methods for weather forecasting
 
 
 Case Study: PINNs for BVPs and IVPs
